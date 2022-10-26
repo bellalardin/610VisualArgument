@@ -1,0 +1,18 @@
+When I first started making this flyer, I had three specific goals in mind to help me achieve my main rhetorical goal of getting people to attend the show:
+-Give some indication of the style of music being showcased, without using words
+-Make sure people viewing the flyer view each part in the order I want them to
+-Make it clear what the flyer is for without explicitly stating it
+
+Additionally, the flyer would be viewed both as a physical copy or as an Instagram post, so I chose a size and aspect ratio that would work effectively in both forms.
+
+The bill for this show features multiple genres, but the headliner is a shoegaze band, so that's the genre I tried to represent. The most famous/recognizable shoegaze album is Loveless by My Bloody Valentine, and I used that album cover as inspiration for selecting the background image that I did.
+
+The most obvious rhetorical technique I used was simplicity. I wanted to make the flyer visually appealing but not cluttered, and ended up choosing not to insert images (other than the background) and keep the fonts used relatively basic and easy to read. As a result, the signal-to-noise ratio is as high as possible, since even the dividing lines of "~" characters are being used to make the band names the point of focus of the flyer.
+
+When people look at the flyer, I want them to notice the band names first, then read the venue name, then the information at the bottom. In order for this to happen, I needed to use multiple techniques to create good balance. I used lines of "~" characters to divide each section of the flyer and separate the band names in a way that doesn't completely isolate them. I also wrote the venue name at the top in a much more stylistic, larger font, so that viewers would naturally shift their view upwards after seeing the band names. I kept the information at the bottom in a simple font in a size that was small, but still readable.
+
+After receiving feedback from a few different people that it wouldn't be immediately clear what the flyer was for to people outside the music scene, I chose to insert the words "live at" in the header in the same font as the venue name. With this edit, viewers would be able to look at either the top section or the bottom section to understand what the flyer is for. This allows me to appeal to both people who are familiar with the local music scene and those who might not know anything about it.
+
+Lastly, I ended up choosing to alternate between left and right justification for each band name, which serves multiple purposes. The empty space created by this layout makes the overall image more visually appealing and helps draw the viewer's attention to the band names. Additionally, it creates a small amount of asymmetry that allows the flyer to appear less formal, but not messy.
+
+I used relatively simple, subtle editing techniques in Gimp to create my final design. I used the text editor and paintbrush tools the most by far, as well as the resizing, rectangle selection, and cropping tools. I noticed after I exported it initially that the flyer seemed too bright outside of Gimp and was almost painful to look at, so I used Gimp's color tool to add shadows and darken the background; I also reduced the opacity on all of the text layers. I also took advantage of Gimp's ability to make layers visible and invisible when drawing the font used at the top of the flyer.
